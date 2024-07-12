@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "pm-portfolio.html",
+    "href": "pm-portfolio.html",
+    "title": "PM Portfolio",
+    "section": "",
+    "text": "My PM portfolio\nThis is where your content goes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "eimhin-co",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "arch-cv.html",
+    "href": "arch-cv.html",
+    "title": "Architect CV",
+    "section": "",
+    "text": "My Architect CV\nThis is where your CV content goes."
+  },
+  {
+    "objectID": "pm-cv.html",
+    "href": "pm-cv.html",
+    "title": "PM CV",
+    "section": "",
+    "text": "My PM CV\nThis is where your CV content goes."
+  },
+  {
+    "objectID": "arch-portfolio.html",
+    "href": "arch-portfolio.html",
+    "title": "Architect Portfolio",
+    "section": "",
+    "text": "My Architect Portolio\nThis is where your content goes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
