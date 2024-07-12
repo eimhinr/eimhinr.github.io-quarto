@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Eimhin's Personal Site"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Architect CV"
+        href: arch-cv.qmd
+      - text: "Architect Portfolio"
+        href: arch-portfolio.qmd
+      - text: "Project Manager CV"
+        href: pm-cv.qmd
+      - text: "Project Manager Portfolio"
+        href: pm-portfolio.qmd
+
